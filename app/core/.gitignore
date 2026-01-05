@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtualenv
+venv/
+env/
+ENV/
+
+# dotenv
+.env
+
+# VS Code
+.vscode/
+
+# macOS / Linux / Windows
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# Database (optional)
+*.sqlite3
